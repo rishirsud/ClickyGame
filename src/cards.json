@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "./images/gary.jpeg",
+    "name": "Gary",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./images/krabs.png",
+    "name": "Mr. Krabs",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./images/patrick.png",
+    "name": "Patrick",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./images/sandy.png",
+    "name": "Sandy",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./images/spongebob.jpeg",
+    "name": "Spongebob",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./images/squidward.png",
+    "name": "Squidward",
+    "clicked": false
+  }
+]
