@@ -63,7 +63,7 @@ class Game extends Component {
         <nav className="navbar navbar-light bg-dark">
           <span className="navbar-brand text-light">ClickyGame</span>
           <span className="text-light">
-            Score: {this.state.currentScore}  |  Highscore:{" "}
+            Score: {this.state.currentScore}    Highscore:{" "}
             {this.state.highScore}
           </span>
         </nav>
